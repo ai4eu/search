@@ -1,4 +1,5 @@
 # AI4EU advanced Search Service
 
-* SphinxDoc HTML documentation is available in zip file
-* PDF is Automatically generated from SphinxDoc
+Project is now Open Source.
+The documentation : https://thalesgroup.github.io/t-keir/
+The Source code : https://github.com/ThalesGroup/t-keir/
